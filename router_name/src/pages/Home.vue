@@ -1,6 +1,6 @@
 <template>
   <div id="home">
-      <h1>我是首页</h1>
+      <h1>我是首页刘旭旭</h1>
   </div>
 </template>
 
